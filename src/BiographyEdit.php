@@ -7,11 +7,11 @@ require_once 'Settings.php';
 error_reporting(0);
 
 
-$username = '';
+$username = 'mamipff';
 
-$password = '';
+$password = 'mamialpsoy10';
 
-$sizinemailiniz = '';
+$sizinemailiniz = 'adanafenlisesi58@gmail.com';
 
 $debug = false;
 
